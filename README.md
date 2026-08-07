@@ -64,7 +64,7 @@ This script will:
 2. Process each file with `EECTreeCreator.cxx` (via `script_bash.sh`)
 3. Apply the JSON configuration files:
    - `OutputDirector.json`
-   - `dal-config-base.json`
+   - `dpl-config-base.json`
 4. Pass output to `Convert2ROOTTree.C` for final conversion
 
 ### Step 4: Retrieve Output
