@@ -12,7 +12,9 @@ You must have O2Physics installed before proceeding. If you haven't already done
 
 ### 2. ppMC File List
 
-You'll need a list of ppMC files with their locations on the ALICE Grid. The repository includes an example file list for LHC26b6 data:
+You'll need a list of ppMC files with their locations on the ALICE Grid. 
+You can look up the location of the desired files on the Grid from here: `https://alimonitor.cern.ch/`
+The repository includes an example file list for LHC26b6 data:
 
 - **File:** `filelist_LHC26b6.txt` (located in the `macros/` folder)
 - **Data Type:** ppMC anchored to OO
