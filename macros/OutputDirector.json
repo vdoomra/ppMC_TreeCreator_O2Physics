@@ -1,0 +1,15 @@
+{ 
+  "OutputDirector": 
+  {
+    "debug_mode": true,
+    "resfile": "AO2D_output",
+    "OutputDescriptors": [
+      {
+        "table": "AOD/TREE/0"
+       
+      }
+       
+    ],
+    "ntfmerge": 100000000
+  } 
+}
