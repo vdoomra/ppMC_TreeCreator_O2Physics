@@ -1,4 +1,4 @@
-# PPMc to Berkeley Tree Format Conversion
+# ppMc to Berkeley Tree Format Conversion
 
 ## Overview
 
