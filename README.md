@@ -78,7 +78,7 @@ Once complete, your final ROOT trees will be ready for analysis.
 The conversion process uses the following JSON configuration files (located in `macros/`):
 
 - **OutputDirector.json** — Configures output handling
-- **dal-config-base.json** — Base DAL (Data Abstraction Layer) configuration
+- **dpl-config-base.json** — Base configuration for O2Physics Analysis Tasks
 
 Ensure these are properly configured before running `job_script.sh`.
 
